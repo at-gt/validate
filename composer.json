@@ -1,0 +1,22 @@
+{
+    "name":             "gt666/validate",
+    "description":      "validate",
+    "keywords":         ["validate", "validator"],
+    "homepage":         "",
+    "time":             "2019-4-26",
+    "license":          "MIT",
+    "authors": [{
+        "name":         "Gu Tao",
+        "email":        "707284322@qq.com",
+        "homepage":     "",
+        "role":         "Engineer"
+    }]
+	"require": {
+        "php": ">=5.6.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "src": "abc"
+        }
+    },
+}
