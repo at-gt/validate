@@ -1,13 +1,20 @@
 {
     "name": "gutao/validate",
+    "description": "数据验证",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
     "require-dev": {
         "php": ">=5.6.0"
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "Gu Tao",
             "email": "707284322@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
