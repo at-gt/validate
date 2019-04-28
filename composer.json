@@ -15,7 +15,6 @@
             "email": "707284322@qq.com"
         }
     ],
-    "require": {},
     "minimum-stability": "dev",
     "repositories": {
         "packagist": {
@@ -25,7 +24,7 @@
     },
 	"autoload": {
 		"psr-4": {
-			"gutao\\": "src/"
+			"gutao\\": "src"
 		}
 	}
 }
