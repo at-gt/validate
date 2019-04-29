@@ -7,7 +7,6 @@ class Validate {
         return empty($params);
     }
 
-
 }
 
 ?>
